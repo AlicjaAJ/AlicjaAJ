@@ -1,7 +1,7 @@
 Hi 👋 My name is Alicja Anna Jaskolka!
 =====================================
 
-Computation Rngineering Student
+Computation Engineering Student
 -------------------------------
 
 I’ve been into codingd for the past two years and have worked my way up to an intermediate level in Python and Java. Along the way, I’ve also built websites with WordPress, turning ideas into something people can actually click on (because I love buttons). When I’m not attached to my screen, you’ll probably find me teaching high-schoolers math, physics, and chemistry, or out running and lifting at the gym. If I'm not in front of the screen nor in the gym, I'm probably stearing at some book (preferably some philosophy to make my life a bit more meaningful).
