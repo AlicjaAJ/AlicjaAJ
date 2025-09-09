@@ -22,7 +22,6 @@ I’ve been into codingd for the past two years and have worked my way up to an 
 <a href="https://www.x.com/Asava144" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Asava144?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-### Badges
 
 <b>My GitHub Stats</b>
 
